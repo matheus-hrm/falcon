@@ -1,0 +1,8 @@
+[package]
+name = "falcon"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+colored = "3.0.0"
+walkdir = "2.5.0"
